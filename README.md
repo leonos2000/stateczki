@@ -1,0 +1,3 @@
+# stateczki
+:(
+a lot TODO
